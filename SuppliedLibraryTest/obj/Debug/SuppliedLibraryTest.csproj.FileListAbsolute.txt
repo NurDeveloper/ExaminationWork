@@ -1,0 +1,7 @@
+c:\users\никита\documents\visual studio 2015\Projects\ExaminationWork\SuppliedLibraryTest\bin\Debug\SuppliedLibraryTest.dll
+c:\users\никита\documents\visual studio 2015\Projects\ExaminationWork\SuppliedLibraryTest\bin\Debug\SuppliedLibraryTest.pdb
+c:\users\никита\documents\visual studio 2015\Projects\ExaminationWork\SuppliedLibraryTest\bin\Debug\SuppliedLibrary.dll
+c:\users\никита\documents\visual studio 2015\Projects\ExaminationWork\SuppliedLibraryTest\bin\Debug\SuppliedLibrary.pdb
+c:\users\никита\documents\visual studio 2015\Projects\ExaminationWork\SuppliedLibraryTest\obj\Debug\SuppliedLibraryTest.csprojResolveAssemblyReference.cache
+c:\users\никита\documents\visual studio 2015\Projects\ExaminationWork\SuppliedLibraryTest\obj\Debug\SuppliedLibraryTest.dll
+c:\users\никита\documents\visual studio 2015\Projects\ExaminationWork\SuppliedLibraryTest\obj\Debug\SuppliedLibraryTest.pdb

@@ -1,0 +1,5 @@
+c:\users\никита\documents\visual studio 2015\Projects\ExaminationWork\SuppliedLibrary\bin\Debug\SuppliedLibrary.dll
+c:\users\никита\documents\visual studio 2015\Projects\ExaminationWork\SuppliedLibrary\bin\Debug\SuppliedLibrary.pdb
+c:\users\никита\documents\visual studio 2015\Projects\ExaminationWork\SuppliedLibrary\obj\Debug\SuppliedLibrary.csprojResolveAssemblyReference.cache
+c:\users\никита\documents\visual studio 2015\Projects\ExaminationWork\SuppliedLibrary\obj\Debug\SuppliedLibrary.dll
+c:\users\никита\documents\visual studio 2015\Projects\ExaminationWork\SuppliedLibrary\obj\Debug\SuppliedLibrary.pdb
